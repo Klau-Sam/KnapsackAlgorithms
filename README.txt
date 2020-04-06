@@ -1,0 +1,4 @@
+	Problem plecakowy jest problemem optymalizacyjnym. W tego typu zagadnieniach możliwych jest wiele różnych rozwiązań. Z każdym rozwiązaniem jest związana pewna liczba (wartość) – szukanie rozwiązania optymalnego polega na szukaniu takiego rozwiązania, które ma optymalną (maksymalną) wartość. W moim programie wykorzystuję do tego 3 metody:
+- algorytmu zachłannego (Greedy) - wykonuje zawsze działanie, które wydaje się w danej chwili najkorzystniejsze,
+- algorytmu pełnego przeglądu (BF) - polega on na rozpatrzeniu wszystkich możliwych przypadków pakowania plecaka po kolei,
+- algorytmu programowania dynamicznego (PD) – rozwiązuje najpierw wszystkie mniejsze podproblemy (upakowania plecaka), rozszerzenie strategii „dziel i zwyciężaj”.
